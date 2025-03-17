@@ -1,5 +1,4 @@
 <?php
-// Criação do array associativo com nomes de alunos e suas notas
 $notas = array(
     'Isa' => 9.5,
     'Lele' => 7.0,
