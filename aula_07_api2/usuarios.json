@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Isabely D'joliz",
+        "email": "isabelydjoliz@gmail.com"
+    },
+    {
+        "id": 2,
+        "nome": "Susi Santos",
+        "email": "sisusantos@gmail.com"
+    },
+    {
+        "id": 3,
+        "nome": "Heuller D'joliz",
+        "email": "heuller@gmail.com"
+    },
+    {
+        "id": 4,
+        "nome": "Cristali Violeta",
+        "email": "crisvi@gmail.com"
+    },
+    {
+        "id": 5,
+        "nome": "Ciclana",
+        "email": "ciclana@email.com"
+    }
+]
