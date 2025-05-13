@@ -85,3 +85,4 @@ switch ($metodo) {
         echo json_encode(['erro' => 'Método não permitido'], JSON_UNESCAPED_UNICODE);
         break;
 }
+?>
